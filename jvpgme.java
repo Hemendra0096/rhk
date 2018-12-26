@@ -1,5 +1,5 @@
-      class A {
+class a {
 public static void main(String args[]){
-  system.out.pringln("Hello Sierra Folks");
+  system.out.println("Hello Sierra Folks");
   }
   }
